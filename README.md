@@ -43,7 +43,7 @@ I’m **Kushagra Taneja**, a 2nd year B.Tech student specializing in Computer Sc
 ### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagra1taneja&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra1taneja&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra1taneja&layout=compact&theme=radical&show_icons=true)
 
 ### 🏆 Achievements
 
