@@ -32,6 +32,9 @@ I’m **Kushagra Taneja**, a 2nd year B.Tech student specializing in Computer Sc
 |--------------|-------------------|-----|
 | **SpendTrend-Analytics** | Python, Machine Learning | https://github.com/Kushagra1taneja/SpendTrend-Analytics-K-Means-Clustering-for-Customer-Insights |
 | **AmazonCrawler** | Python, Flask, MySQL | https://github.com/Kushagra1taneja/AmazonCrawler|
+| **Salary Predictor** | Python, Machine Learning | https://github.com/Kushagra1taneja/SalaryPredictor|
+
+
 
 
 
