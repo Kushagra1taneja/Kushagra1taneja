@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m **Kushagra Taneja**, a 2nd year B.Tech student specializing in Computer Science and Engineering. Welcome to my GitHub profile!
+I’m **Kushagra Taneja**, a 3nd year B.Tech student specializing in Computer Science and Engineering. Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
@@ -33,6 +33,7 @@ I’m **Kushagra Taneja**, a 2nd year B.Tech student specializing in Computer Sc
 | **SpendTrend-Analytics** | Python, Machine Learning | https://github.com/Kushagra1taneja/SpendTrend-Analytics-K-Means-Clustering-for-Customer-Insights |
 | **AmazonCrawler** | Python, Flask, MySQL | https://github.com/Kushagra1taneja/AmazonCrawler|
 | **Salary Predictor** | Python, Machine Learning | https://github.com/Kushagra1taneja/SalaryPredictor|
+| **Sentiment Analyzer** | Python, Machine Learning | https://github.com/Kushagra1taneja/Sentiment-Analyzer/|
 
 
 
