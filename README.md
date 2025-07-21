@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-I’m **Kushagra Taneja**, a 3nd year B.Tech student specializing in Computer Science and Engineering. Welcome to my GitHub profile!
+I’m **Kushagra Taneja**, a 4th year B.Tech student specializing in Computer Science and Engineering. Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
 - 🎓 Studying B.Tech in Computer Science and Engineering at Indian Institute of Information Technology Vadodara International Campus Diu
-- 🌱 Currently learning machine learning and cloud computing
-- 💼 Looking for internship opportunities for Summer 2025
+- 🌱 Currently learning Deep learning and cloud computing
+- 💼 Looking for internship/Job opportunities for 2026
 - ⚡ Fun fact: I love playing football and video games in my free time
 
 #### Programming Languages
