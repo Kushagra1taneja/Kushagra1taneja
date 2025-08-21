@@ -4,7 +4,7 @@ I’m **Kushagra Taneja**, a 4th year B.Tech student specializing in Computer Sc
 
 ### 🚀 About Me
 
-- 🎓 Studying B.Tech in Computer Science and Engineering at Indian Institute of Information Technology Vadodara International Campus Diu
+- 🎓 Studying B.Tech in Computer Science and Engineering at Indian Institute of Information Technology Vadodara
 - 🌱 Currently learning Deep learning and cloud computing
 - 💼 Looking for internship/Job opportunities for 2026
 - ⚡ Fun fact: I love playing football and video games in my free time
@@ -34,6 +34,7 @@ I’m **Kushagra Taneja**, a 4th year B.Tech student specializing in Computer Sc
 | **Cognitive-Emotion-Mapping-via-EEG** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/Cognitive-Emotion-Mapping-via-EEG/tree/main) |
 | **SpendTrend-Analytics** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/SpendTrend-Analytics-K-Means-Clustering-for-Customer-Insights) |
 | **AmazonCrawler** | Python, Flask, MySQL | [Open Repo](https://github.com/Kushagra1taneja/AmazonCrawler)|
+| **ConnectSphere-API** | NestJS, Typescript, MongoDb, JS | [Open Repo](https://github.com/Kushagra1taneja/ConnectSphere-API) |
 | **Salary Predictor** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/SalaryPredictor)|
 | **Sentiment Analyzer** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/Sentiment-Analyzer/)|
 
