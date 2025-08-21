@@ -30,10 +30,12 @@ I’m **Kushagra Taneja**, a 4th year B.Tech student specializing in Computer Sc
 
 | Project Name | Technologies Used | GitHub Repository URL |
 |--------------|-------------------|-----|
-| **SpendTrend-Analytics** | Python, Machine Learning | https://github.com/Kushagra1taneja/SpendTrend-Analytics-K-Means-Clustering-for-Customer-Insights |
-| **AmazonCrawler** | Python, Flask, MySQL | https://github.com/Kushagra1taneja/AmazonCrawler|
-| **Salary Predictor** | Python, Machine Learning | https://github.com/Kushagra1taneja/SalaryPredictor|
-| **Sentiment Analyzer** | Python, Machine Learning | https://github.com/Kushagra1taneja/Sentiment-Analyzer/|
+| **UniTech Knowledge Assistant** | LLM, RAG, Chatbot, Snowflake, SQL | [Open Repo](https://github.com/Kushagra1taneja/Cognitive-Emotion-Mapping-via-EEG/tree/main) |
+| **Cognitive-Emotion-Mapping-via-EEG** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/Cognitive-Emotion-Mapping-via-EEG/tree/main) |
+| **SpendTrend-Analytics** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/SpendTrend-Analytics-K-Means-Clustering-for-Customer-Insights) |
+| **AmazonCrawler** | Python, Flask, MySQL | [Open Repo](https://github.com/Kushagra1taneja/AmazonCrawler)|
+| **Salary Predictor** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/SalaryPredictor)|
+| **Sentiment Analyzer** | Python, Machine Learning | [Open Repo](https://github.com/Kushagra1taneja/Sentiment-Analyzer/)|
 
 
 
